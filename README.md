@@ -1,6 +1,6 @@
 # Hola, mi nombre es Francisco Rey!👋
 
-### Actualmente me dedico al desarrollo de Front End, pero tambien estoy en aprendizaje de lenguajes que me hagan entender y desarrollar Back End.
+Actualmente me dedico al desarrollo de Front End, pero tambien estoy en aprendizaje de lenguajes que me hagan entender y desarrollar Back End.
 
 ## Tecnologias que utilizo:
 ---
