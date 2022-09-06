@@ -4,7 +4,7 @@ Actualmente me dedico al desarrollo de Front End, pero tambien estoy en aprendiz
 
 ## Tecnologias que utilizo:
 ---
-![React]([http://lmsotfy.com/so.png](https://user-images.githubusercontent.com/82492849/127186826-fa23931b-dca7-46db-b33d-4caf6afd984c.png))
+![React](https://user-images.githubusercontent.com/82492849/127186826-fa23931b-dca7-46db-b33d-4caf6afd984c.png)
 -HTML-CSS-TailwindCSS
 -ReactJS-JavaScript
 -NodeJS
