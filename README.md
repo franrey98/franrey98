@@ -4,9 +4,9 @@ Actualmente me dedico al desarrollo de Front End, pero tambien estoy en aprendiz
 
 ## Tecnologias que utilizo:
 ---
-➡*HTML-CSS-TailwindCSS
-➡*ReactJS-JavaScript
-➡*NodeJS
+-HTML-CSS-TailwindCSS
+-ReactJS-JavaScript
+-NodeJS
 
 <!--
 **franrey98/franrey98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
