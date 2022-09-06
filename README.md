@@ -1,6 +1,6 @@
 # Hola, mi nombre es Francisco Rey!👋
 
-Tengo 23 años y actualmente me dedico al desarrollo de Front End, pero tambien estoy en aprendizaje de lenguajes que me hagan entender y desarrollar Back End.
+Tengo 23 años y actualmente me dedico al desarrollo de Front End, pero tambien estoy en aprendizaje de lenguajes que me hagan entender y desarrollar Back End. 🥳
 
 ## Tecnologias que utilizo:
 ---
@@ -14,19 +14,14 @@ ReactJS -> <img src="https://user-images.githubusercontent.com/82492849/12718682
 
 NodeJS-Express -> <img src="https://camo.githubusercontent.com/20872a4dc98906346c22751d7147635ab35c74915d6e0872260f3bd8c24bea68/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3336352f312a4a72334e46534b546651575255796a626c42534b65672e706e67" width="70">
 
+## Podes ver mis trabajos en mi portafolio:
+
+[Portafolio](https://portafolio-react-fawn.vercel.app/) 👷
+
+## Para contactarme:
+
+[Gmail](reyfrancisco98@hotmail.com) 📧
+
+[LinkedIn](https://www.linkedin.com/in/francisco-rey-71060419a/) 🔗
 
 
-<!--
-**franrey98/franrey98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
