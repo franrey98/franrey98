@@ -4,6 +4,7 @@ Actualmente me dedico al desarrollo de Front End, pero tambien estoy en aprendiz
 
 ## Tecnologias que utilizo:
 ---
+![stack Overflow](http://lmsotfy.com/so.png)
 -HTML-CSS-TailwindCSS
 -ReactJS-JavaScript
 -NodeJS
