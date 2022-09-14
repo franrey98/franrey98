@@ -12,6 +12,8 @@ Tengo 23 años y actualmente me dedico al desarrollo de Front End, pero tambien 
 <img src="https://camo.githubusercontent.com/5e5e6933ce6e85a6a74c623081feced74368e025c1f0a39e26367e44fef3714c/687474703a2f2f313030306d61726361732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f4353532d4c6f676f2e706e67" width="120">
 <img src="https://user-images.githubusercontent.com/82492849/127186839-fded5ee4-3581-419d-aeab-9b4883453980.png" width="60">
 <img src="https://user-images.githubusercontent.com/82492849/127186826-fa23931b-dca7-46db-b33d-4caf6afd984c.png" width="70">
+<img width="13%" alt="Node Express" src="https://miro.medium.com/max/365/1*Jr3NFSKTfQWRUyjblBSKeg.png" />
+<img width="8%" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" />
 
 </div>
 
