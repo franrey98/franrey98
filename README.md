@@ -4,7 +4,7 @@ Tengo 23 años y actualmente me dedico al desarrollo de Front End, pero tambien 
 
 ## Tecnologias que más utilizo:
 ---
-<p>   HTML •    CSS •    JavaScript •  React • React Native • TypeScript •  Styled Components •  NodeJS</p>
+<p>   HTML • CSS • JavaScript • React • NodeJS</p>
 
 <div display='flex'
      <img width="8%" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" />
