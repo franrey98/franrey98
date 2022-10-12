@@ -22,6 +22,6 @@ Tengo 23 años y actualmente me dedico al desarrollo de Front End, pero tambien 
 [Gmail](reyfrancisco98@hotmail.com) 📧
 
 
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=flat&logo=LinkedIn&logoColor=%blue" /></a> (https://www.linkedin.com/in/francisco-rey-71060419a/) 🔗
+<img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=flat&logo=LinkedIn&logoColor=%blue" />https://www.linkedin.com/in/francisco-rey-71060419a/ 🔗
 
 
