@@ -10,7 +10,7 @@ Tengo 24 años, actualmente me dedico al desarrollo de Front End y me encuentro 
 <div display='flex'
 <img width="8%" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" />
 
-<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 ## Podes ver mis trabajos en mi portafolio:
 
