@@ -13,9 +13,6 @@ Tengo 24 años, actualmente me dedico al desarrollo de Front End y me encuentro 
 
 ## Podes ver mis trabajos en mi portafolio:
 
-https://github-readme-stats.vercel.app/api?username={franrey98}&theme=blue-green
-
-##
 [Portafolio](https://portafolio-new-git-dev-franrey98.vercel.app/) 👷
 
 ## Para contactarme:
@@ -23,5 +20,14 @@ https://github-readme-stats.vercel.app/api?username={franrey98}&theme=blue-green
 [Gmail](reyfrancisco98@hotmail.com) 📧
 
 [Linkedin](https://www.linkedin.com/in/francisco-rey-71060419a/) 🔗
+
+## Github Stats  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=franrey98&show_icons=true&count_private=true&hide_border=true&theme=codeSTACKr" align="center" /></p>  
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franrey98&hide_border=true&layout=compact&langs_count=4&theme=codeSTACKr" align="center" /></p> 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=franrey98&&style=flat-square" align="center" />
+</p>  
 
 
