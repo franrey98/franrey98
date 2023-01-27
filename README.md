@@ -13,6 +13,9 @@ Tengo 24 años, actualmente me dedico al desarrollo de Front End y me encuentro 
 
 ## Podes ver mis trabajos en mi portafolio:
 
+https://github-readme-stats.vercel.app/api?username={franrey98}&theme=blue-green
+
+##
 [Portafolio](https://portafolio-new-git-dev-franrey98.vercel.app/) 👷
 
 ## Para contactarme:
