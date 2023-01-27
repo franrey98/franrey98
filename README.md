@@ -10,6 +10,9 @@ Tengo 24 años, actualmente me dedico al desarrollo de Front End y me encuentro 
 <div display='flex'
      <img width="8%" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
   <i class="devicon-react-original-wordmark colored"></i>  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=Javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=Node.js&logoColor=white) 
 </div>
