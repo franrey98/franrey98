@@ -7,7 +7,7 @@ Tengo 24 años, actualmente me dedico al desarrollo de Front End y me encuentro 
 
 ## Tecnologias que más utilizo:
 
-<div style={{gap:'1rem'}} display='flex'>
+<div display='flex' style={{gap:"5rem"}}>
 
 <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
