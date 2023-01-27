@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
 # Hola, mi nombre es Francisco Rey!👋
 
 Tengo 24 años, actualmente me dedico al desarrollo de Front End y me encuentro buscando trabajo del mismo!
