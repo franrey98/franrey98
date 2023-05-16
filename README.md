@@ -25,7 +25,7 @@ Tengo 24 años, actualmente me dedico al desarrollo de Front End y me encuentro 
 
 ## Para contactarme:
 
-[Gmail](reyfrancisco98@hotmail.com) 📧
+[Hotmail](reyfrancisco98@hotmail.com) 📧
 
 [Linkedin](https://www.linkedin.com/in/francisco-rey-71060419a/) 🔗
 
