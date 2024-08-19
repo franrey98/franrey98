@@ -11,7 +11,7 @@
 - +2 años de experiencia como desarrollador Frontend.
 - Actualmente trabajando como desarrolador Mobile en [Fansbury](https://www.fansbury.com/)
 - Portfolio [https://portafolio-oy82u5xx5-franrey98s-projects.vercel.app/](https://portafolio-new-three.vercel.app/)
-- En este momento me encuentro abierto a nuevas propuestas, este es mi CV [Resumen](https://drive.google.com/file/d/1-QQsLMxihF-zNtQi7y92JnySDbJQRZdi/view?usp=sharing)
+- En este momento me encuentro abierto a nuevas propuestas, este es mi CV [Resumen](https://drive.google.com/file/d/1o3-0Jxdwwmugp7pc8i9Nrmp4wP3XPXtR/view?usp=sharing)
 
 <br>
 
